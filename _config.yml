@@ -26,6 +26,8 @@ url: "http://bencentra.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 # logo: "assets/logo.png"
 
+cdn_url: https://s3.amazonaws.com/dausha/ombrio/
+
 # Build settings
 markdown: kramdown
 paginate: 5
